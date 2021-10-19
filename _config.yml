@@ -14,7 +14,8 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "quienes-somos"
+  ¿Quiénes somos?: "quienes-somos"
+  Hacerme socio: "inscripcion"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
