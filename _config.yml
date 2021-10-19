@@ -40,20 +40,20 @@ title-img: /assets/img/absm_logo_orig.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "beneficenciasuiza@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: beneficenciasuiza
+  github: beneficenciasuizamadrid
+  twitter: beneficenciasuizamadrid
+  patreon: beneficenciasuizamadrid
+  youtube: c/beneficenciasuizamadrid
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: beneficenciasuizamadrid
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
