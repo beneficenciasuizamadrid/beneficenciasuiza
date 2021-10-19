@@ -82,6 +82,9 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "www.beneficenciasuiza.org"
 
+# NIF ABSM
+nif: G28220887
+
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
