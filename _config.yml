@@ -83,7 +83,7 @@ share-links-active:
 url-pretty: "www.beneficenciasuiza.org"
 
 # NIF ABSM
-nif: "NIF G28220887"
+nif: NIF G28220887
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
