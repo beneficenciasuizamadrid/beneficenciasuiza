@@ -31,7 +31,9 @@
         {% endif %}
       {% endif%}
       </p>
-      {{ site.nif }}
+      {% if site.nif %}
+        {{ site.nif }}
+      {% endif %}
       <!--
       {% unless site.remove-ads %}<p class="theme-by text-muted">
         Powered by
