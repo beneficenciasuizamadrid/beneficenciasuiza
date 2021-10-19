@@ -43,7 +43,7 @@ social-network-links:
   email: "beneficenciasuiza@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: beneficenciasuiza
-  github: beneficenciasuizamadrid
+#  github: beneficenciasuizamadrid
   twitter: beneficenciasuizamadrid
   patreon: beneficenciasuizamadrid
   youtube: c/beneficenciasuizamadrid
